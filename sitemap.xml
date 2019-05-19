@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/home/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/home/teaching/</loc>
+  </url>
+  
+  <url>
+    <loc>/home/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>/home/talks/</loc>
+  </url>
+  
+  <url>
+    <loc>/home/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-07-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2018-07-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talk/2018_icots/</loc>
+    <lastmod>2018-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2018_isba/</loc>
+    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2017_jsm/</loc>
+    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2017_user/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2017-stat_comp_curriculum/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talk/2016_jsm/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2016_user/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2015_jsm/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2015_user/</loc>
+    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2015-pm25/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2014_jsm/</loc>
+    <lastmod>2014-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2014_dabss/</loc>
+    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2014_dss/</loc>
+    <lastmod>2014-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2013_jsm/</loc>
+    <lastmod>2013-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2013_user/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2013-isoscat/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2012_jsm/</loc>
+    <lastmod>2012-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2012_user/</loc>
+    <lastmod>2012-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2011_jsm/</loc>
+    <lastmod>2011-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2011-language_health/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2006-fruit_flies/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/cur_teaching/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/home/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/prev_teaching/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/prev_teaching/sta_030/</loc>
+  </url>
+  
+  <url>
+    <loc>/prev_teaching/sta_102/</loc>
+  </url>
+  
+  <url>
+    <loc>/prev_teaching/sta_111/</loc>
+  </url>
+  
+  <url>
+    <loc>/prev_teaching/sta_112/</loc>
+  </url>
+  
+  <url>
+    <loc>/prev_teaching/sta_230/</loc>
+  </url>
+  
+  <url>
+    <loc>/cur_teaching/sta_323/</loc>
+  </url>
+  
+  <url>
+    <loc>/prev_teaching/sta_323/</loc>
+  </url>
+  
+  <url>
+    <loc>/prev_teaching/sta_444_644/</loc>
+  </url>
+  
+  <url>
+    <loc>/prev_teaching/sta_523/</loc>
+  </url>
+  
+  <url>
+    <loc>/cur_teaching/sta_790/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

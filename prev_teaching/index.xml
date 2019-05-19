@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prev_teachings on </title>
+    <link>/prev_teaching/</link>
+    <description>Recent content in Prev_teachings on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Colin Rundel</copyright>
+    
+	<atom:link href="/prev_teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sta 030 - Statistics and Quantitative Literacy</title>
+      <link>/prev_teaching/sta_030/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prev_teaching/sta_030/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sta 102 - Intro Biostatistics</title>
+      <link>/prev_teaching/sta_102/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prev_teaching/sta_102/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sta 111 - Probability and Statistical Inference</title>
+      <link>/prev_teaching/sta_111/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prev_teaching/sta_111/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sta 112 - Better Living through Data Science </title>
+      <link>/prev_teaching/sta_112/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prev_teaching/sta_112/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sta 230 / Mth 230 - Probability</title>
+      <link>/prev_teaching/sta_230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prev_teaching/sta_230/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sta 323 - Statistical Computing </title>
+      <link>/prev_teaching/sta_323/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prev_teaching/sta_323/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sta 444 / 644 - Spatio-Temporal Modeling</title>
+      <link>/prev_teaching/sta_444_644/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prev_teaching/sta_444_644/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sta 523 - Statistical Programming</title>
+      <link>/prev_teaching/sta_523/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prev_teaching/sta_523/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

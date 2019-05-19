@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Colin Rundel</copyright>
+    <lastBuildDate>Sat, 07 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>About me I am an assistant professor of the practice in Statistical Science at Duke university. My research interests include applied spatial statistics with an emphasis on Bayesian statistics and computational methods.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/home/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>/home/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching Data Science, Reproducibly (Workshop)</title>
+      <link>/talk/2018_icots/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2018_icots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducible Computing (Workshop)</title>
+      <link>/talk/2018_isba/</link>
+      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2018_isba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moving Away from Ad Hoc Statistical Computing Education (Invited)</title>
+      <link>/talk/2017_jsm/</link>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2017_jsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Carpentry: Open and Reproducible Research with R (Tutorial)</title>
+      <link>/talk/2017_user/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2017_user/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infrastructure and tools for teaching computing throughout the statistical curriculum</title>
+      <link>/publication/2017-stat_comp_curriculum/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-stat_comp_curriculum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Computing as an Introduction to Data Science (Invited)</title>
+      <link>/talk/2016_jsm/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2016_jsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Integration and Teaching Statistical Computing with R</title>
+      <link>/talk/2016_user/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2016_user/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching statistical computing leveraging the github ecosystem</title>
+      <link>/talk/2015_jsm/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2015_jsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching R using the github ecosystem</title>
+      <link>/talk/2015_user/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2015_user/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> A data fusion approach for spatial analysis of speciated PM2.5 across time</title>
+      <link>/publication/2015-pm25/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-pm25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Data Fusion Approach for Space-Time Analysis of Speciated PM$_{2.5}$</title>
+      <link>/talk/2014_jsm/</link>
+      <pubDate>Sat, 02 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2014_jsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geospatial data and the R ecosystem</title>
+      <link>/talk/2014_dabss/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2014_dabss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using GPUs to improve the computational efficiency of Gaussian process models</title>
+      <link>/talk/2014_dss/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2014_dss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPUs, linear algebra, and efficient computing for Gaussian process models</title>
+      <link>/talk/2013_jsm/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2013_jsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging GPU libraries for efficient computation of Gaussian process models in R</title>
+      <link>/talk/2013_user/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2013_user/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel statistical methods for integrating genetic and stable isotope data to infer individual-level migratory connectivity</title>
+      <link>/publication/2013-isoscat/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2013-isoscat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging GPU Libraries for Efficient Computation of Bayesian Spatial Assignment Models in R</title>
+      <link>/talk/2012_jsm/</link>
+      <pubDate>Thu, 02 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2012_jsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rgeos: spatial geometry predicates and topology operations in R</title>
+      <link>/talk/2012_user/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2012_user/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Models for Bird Origin Assignment Using Genetic and Isotopic Data</title>
+      <link>/talk/2011_jsm/</link>
+      <pubDate>Tue, 02 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2011_jsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality of reproductive health services to limited English proficient patients</title>
+      <link>/publication/2011-language_health/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2011-language_health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overexpression of a Drosophila Homolog of Apolipoprotein D Leads to Increased Stress Resistance and Extended Lifespan</title>
+      <link>/publication/2006-fruit_flies/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2006-fruit_flies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sta 030 - Statistics and Quantitative Literacy</title>
+      <link>/prev_teaching/sta_030/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prev_teaching/sta_030/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sta 102 - Intro Biostatistics</title>
+      <link>/prev_teaching/sta_102/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prev_teaching/sta_102/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sta 111 - Probability and Statistical Inference</title>
+      <link>/prev_teaching/sta_111/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prev_teaching/sta_111/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sta 112 - Better Living through Data Science </title>
+      <link>/prev_teaching/sta_112/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prev_teaching/sta_112/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sta 230 / Mth 230 - Probability</title>
+      <link>/prev_teaching/sta_230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prev_teaching/sta_230/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sta 323 - Statistical Computing </title>
+      <link>/cur_teaching/sta_323/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cur_teaching/sta_323/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sta 323 - Statistical Computing </title>
+      <link>/prev_teaching/sta_323/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prev_teaching/sta_323/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sta 444 / 644 - Spatio-Temporal Modeling</title>
+      <link>/prev_teaching/sta_444_644/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prev_teaching/sta_444_644/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sta 523 - Statistical Programming</title>
+      <link>/prev_teaching/sta_523/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prev_teaching/sta_523/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sta 790 - Advanced Statistical Computing</title>
+      <link>/cur_teaching/sta_790/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cur_teaching/sta_790/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
