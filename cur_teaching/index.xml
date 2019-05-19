@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cur_teachings on </title>
-    <link>/cur_teaching/</link>
+    <link>https://mulaab.github.io/profile/cur_teaching/</link>
     <description>Recent content in Cur_teachings on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Colin Rundel</copyright>
     
-	<atom:link href="/cur_teaching/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mulaab.github.io/profile/cur_teaching/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sta 323 - Statistical Computing </title>
-      <link>/cur_teaching/sta_323/</link>
+      <link>https://mulaab.github.io/profile/cur_teaching/sta_323/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/cur_teaching/sta_323/</guid>
+      <guid>https://mulaab.github.io/profile/cur_teaching/sta_323/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sta 790 - Advanced Statistical Computing</title>
-      <link>/cur_teaching/sta_790/</link>
+      <link>https://mulaab.github.io/profile/cur_teaching/sta_790/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/cur_teaching/sta_790/</guid>
+      <guid>https://mulaab.github.io/profile/cur_teaching/sta_790/</guid>
       <description></description>
     </item>
     
