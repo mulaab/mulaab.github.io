@@ -2,337 +2,337 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://mulaab.github.io/profile/</link>
+    <link>https://mulaab.github.io/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Colin Rundel</copyright>
     <lastBuildDate>Sat, 07 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mulaab.github.io/profile/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mulaab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://mulaab.github.io/profile/home/about/</link>
+      <link>https://mulaab.github.io/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/home/about/</guid>
+      <guid>https://mulaab.github.io/home/about/</guid>
       <description>About me I am an assistant professor of the practice in Statistical Science at Duke university. My research interests include applied spatial statistics with an emphasis on Bayesian statistics and computational methods.</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://mulaab.github.io/profile/home/teaching/</link>
+      <link>https://mulaab.github.io/home/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/home/teaching/</guid>
+      <guid>https://mulaab.github.io/home/teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://mulaab.github.io/profile/home/publications/</link>
+      <link>https://mulaab.github.io/home/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/home/publications/</guid>
+      <guid>https://mulaab.github.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talks</title>
-      <link>https://mulaab.github.io/profile/home/talks/</link>
+      <link>https://mulaab.github.io/home/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/home/talks/</guid>
+      <guid>https://mulaab.github.io/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://mulaab.github.io/profile/home/contact/</link>
+      <link>https://mulaab.github.io/home/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/home/contact/</guid>
+      <guid>https://mulaab.github.io/home/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching Data Science, Reproducibly (Workshop)</title>
-      <link>https://mulaab.github.io/profile/talk/2018_icots/</link>
+      <link>https://mulaab.github.io/talk/2018_icots/</link>
       <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/talk/2018_icots/</guid>
+      <guid>https://mulaab.github.io/talk/2018_icots/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reproducible Computing (Workshop)</title>
-      <link>https://mulaab.github.io/profile/talk/2018_isba/</link>
+      <link>https://mulaab.github.io/talk/2018_isba/</link>
       <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/talk/2018_isba/</guid>
+      <guid>https://mulaab.github.io/talk/2018_isba/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Moving Away from Ad Hoc Statistical Computing Education (Invited)</title>
-      <link>https://mulaab.github.io/profile/talk/2017_jsm/</link>
+      <link>https://mulaab.github.io/talk/2017_jsm/</link>
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/talk/2017_jsm/</guid>
+      <guid>https://mulaab.github.io/talk/2017_jsm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Carpentry: Open and Reproducible Research with R (Tutorial)</title>
-      <link>https://mulaab.github.io/profile/talk/2017_user/</link>
+      <link>https://mulaab.github.io/talk/2017_user/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/talk/2017_user/</guid>
+      <guid>https://mulaab.github.io/talk/2017_user/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infrastructure and tools for teaching computing throughout the statistical curriculum</title>
-      <link>https://mulaab.github.io/profile/publication/2017-stat_comp_curriculum/</link>
+      <link>https://mulaab.github.io/publication/2017-stat_comp_curriculum/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/publication/2017-stat_comp_curriculum/</guid>
+      <guid>https://mulaab.github.io/publication/2017-stat_comp_curriculum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Computing as an Introduction to Data Science (Invited)</title>
-      <link>https://mulaab.github.io/profile/talk/2016_jsm/</link>
+      <link>https://mulaab.github.io/talk/2016_jsm/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/talk/2016_jsm/</guid>
+      <guid>https://mulaab.github.io/talk/2016_jsm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Integration and Teaching Statistical Computing with R</title>
-      <link>https://mulaab.github.io/profile/talk/2016_user/</link>
+      <link>https://mulaab.github.io/talk/2016_user/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/talk/2016_user/</guid>
+      <guid>https://mulaab.github.io/talk/2016_user/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching statistical computing leveraging the github ecosystem</title>
-      <link>https://mulaab.github.io/profile/talk/2015_jsm/</link>
+      <link>https://mulaab.github.io/talk/2015_jsm/</link>
       <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/talk/2015_jsm/</guid>
+      <guid>https://mulaab.github.io/talk/2015_jsm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching R using the github ecosystem</title>
-      <link>https://mulaab.github.io/profile/talk/2015_user/</link>
+      <link>https://mulaab.github.io/talk/2015_user/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/talk/2015_user/</guid>
+      <guid>https://mulaab.github.io/talk/2015_user/</guid>
       <description></description>
     </item>
     
     <item>
       <title> A data fusion approach for spatial analysis of speciated PM2.5 across time</title>
-      <link>https://mulaab.github.io/profile/publication/2015-pm25/</link>
+      <link>https://mulaab.github.io/publication/2015-pm25/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/publication/2015-pm25/</guid>
+      <guid>https://mulaab.github.io/publication/2015-pm25/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Data Fusion Approach for Space-Time Analysis of Speciated PM$_{2.5}$</title>
-      <link>https://mulaab.github.io/profile/talk/2014_jsm/</link>
+      <link>https://mulaab.github.io/talk/2014_jsm/</link>
       <pubDate>Sat, 02 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/talk/2014_jsm/</guid>
+      <guid>https://mulaab.github.io/talk/2014_jsm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geospatial data and the R ecosystem</title>
-      <link>https://mulaab.github.io/profile/talk/2014_dabss/</link>
+      <link>https://mulaab.github.io/talk/2014_dabss/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/talk/2014_dabss/</guid>
+      <guid>https://mulaab.github.io/talk/2014_dabss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using GPUs to improve the computational efficiency of Gaussian process models</title>
-      <link>https://mulaab.github.io/profile/talk/2014_dss/</link>
+      <link>https://mulaab.github.io/talk/2014_dss/</link>
       <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/talk/2014_dss/</guid>
+      <guid>https://mulaab.github.io/talk/2014_dss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GPUs, linear algebra, and efficient computing for Gaussian process models</title>
-      <link>https://mulaab.github.io/profile/talk/2013_jsm/</link>
+      <link>https://mulaab.github.io/talk/2013_jsm/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/talk/2013_jsm/</guid>
+      <guid>https://mulaab.github.io/talk/2013_jsm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leveraging GPU libraries for efficient computation of Gaussian process models in R</title>
-      <link>https://mulaab.github.io/profile/talk/2013_user/</link>
+      <link>https://mulaab.github.io/talk/2013_user/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/talk/2013_user/</guid>
+      <guid>https://mulaab.github.io/talk/2013_user/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Novel statistical methods for integrating genetic and stable isotope data to infer individual-level migratory connectivity</title>
-      <link>https://mulaab.github.io/profile/publication/2013-isoscat/</link>
+      <link>https://mulaab.github.io/publication/2013-isoscat/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/publication/2013-isoscat/</guid>
+      <guid>https://mulaab.github.io/publication/2013-isoscat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leveraging GPU Libraries for Efficient Computation of Bayesian Spatial Assignment Models in R</title>
-      <link>https://mulaab.github.io/profile/talk/2012_jsm/</link>
+      <link>https://mulaab.github.io/talk/2012_jsm/</link>
       <pubDate>Thu, 02 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/talk/2012_jsm/</guid>
+      <guid>https://mulaab.github.io/talk/2012_jsm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rgeos: spatial geometry predicates and topology operations in R</title>
-      <link>https://mulaab.github.io/profile/talk/2012_user/</link>
+      <link>https://mulaab.github.io/talk/2012_user/</link>
       <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/talk/2012_user/</guid>
+      <guid>https://mulaab.github.io/talk/2012_user/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial Models for Bird Origin Assignment Using Genetic and Isotopic Data</title>
-      <link>https://mulaab.github.io/profile/talk/2011_jsm/</link>
+      <link>https://mulaab.github.io/talk/2011_jsm/</link>
       <pubDate>Tue, 02 Aug 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/talk/2011_jsm/</guid>
+      <guid>https://mulaab.github.io/talk/2011_jsm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quality of reproductive health services to limited English proficient patients</title>
-      <link>https://mulaab.github.io/profile/publication/2011-language_health/</link>
+      <link>https://mulaab.github.io/publication/2011-language_health/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/publication/2011-language_health/</guid>
+      <guid>https://mulaab.github.io/publication/2011-language_health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Overexpression of a Drosophila Homolog of Apolipoprotein D Leads to Increased Stress Resistance and Extended Lifespan</title>
-      <link>https://mulaab.github.io/profile/publication/2006-fruit_flies/</link>
+      <link>https://mulaab.github.io/publication/2006-fruit_flies/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/publication/2006-fruit_flies/</guid>
+      <guid>https://mulaab.github.io/publication/2006-fruit_flies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sta 030 - Statistics and Quantitative Literacy</title>
-      <link>https://mulaab.github.io/profile/prev_teaching/sta_030/</link>
+      <link>https://mulaab.github.io/prev_teaching/sta_030/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/prev_teaching/sta_030/</guid>
+      <guid>https://mulaab.github.io/prev_teaching/sta_030/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sta 102 - Intro Biostatistics</title>
-      <link>https://mulaab.github.io/profile/prev_teaching/sta_102/</link>
+      <link>https://mulaab.github.io/prev_teaching/sta_102/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/prev_teaching/sta_102/</guid>
+      <guid>https://mulaab.github.io/prev_teaching/sta_102/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sta 111 - Probability and Statistical Inference</title>
-      <link>https://mulaab.github.io/profile/prev_teaching/sta_111/</link>
+      <link>https://mulaab.github.io/prev_teaching/sta_111/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/prev_teaching/sta_111/</guid>
+      <guid>https://mulaab.github.io/prev_teaching/sta_111/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sta 112 - Better Living through Data Science </title>
-      <link>https://mulaab.github.io/profile/prev_teaching/sta_112/</link>
+      <link>https://mulaab.github.io/prev_teaching/sta_112/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/prev_teaching/sta_112/</guid>
+      <guid>https://mulaab.github.io/prev_teaching/sta_112/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sta 230 / Mth 230 - Probability</title>
-      <link>https://mulaab.github.io/profile/prev_teaching/sta_230/</link>
+      <link>https://mulaab.github.io/prev_teaching/sta_230/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/prev_teaching/sta_230/</guid>
+      <guid>https://mulaab.github.io/prev_teaching/sta_230/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sta 323 - Statistical Computing </title>
-      <link>https://mulaab.github.io/profile/cur_teaching/sta_323/</link>
+      <link>https://mulaab.github.io/cur_teaching/sta_323/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/cur_teaching/sta_323/</guid>
+      <guid>https://mulaab.github.io/cur_teaching/sta_323/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sta 323 - Statistical Computing </title>
-      <link>https://mulaab.github.io/profile/prev_teaching/sta_323/</link>
+      <link>https://mulaab.github.io/prev_teaching/sta_323/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/prev_teaching/sta_323/</guid>
+      <guid>https://mulaab.github.io/prev_teaching/sta_323/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sta 444 / 644 - Spatio-Temporal Modeling</title>
-      <link>https://mulaab.github.io/profile/prev_teaching/sta_444_644/</link>
+      <link>https://mulaab.github.io/prev_teaching/sta_444_644/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/prev_teaching/sta_444_644/</guid>
+      <guid>https://mulaab.github.io/prev_teaching/sta_444_644/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sta 523 - Statistical Programming</title>
-      <link>https://mulaab.github.io/profile/prev_teaching/sta_523/</link>
+      <link>https://mulaab.github.io/prev_teaching/sta_523/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/prev_teaching/sta_523/</guid>
+      <guid>https://mulaab.github.io/prev_teaching/sta_523/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sta 790 - Advanced Statistical Computing</title>
-      <link>https://mulaab.github.io/profile/cur_teaching/sta_790/</link>
+      <link>https://mulaab.github.io/cur_teaching/sta_790/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mulaab.github.io/profile/cur_teaching/sta_790/</guid>
+      <guid>https://mulaab.github.io/cur_teaching/sta_790/</guid>
       <description></description>
     </item>
     
